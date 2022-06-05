@@ -1,5 +1,4 @@
 # EdellCoffee
- Coffee Bean ordering system & Customer service
  
 <p float="left">
   <img src="ScreenShot/Simulator%20Screen%20Shot%20-%20iPhone%2012%20-%202022-06-05%20at%2017.14.12.png" width="190" >
