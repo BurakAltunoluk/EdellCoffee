@@ -8,6 +8,8 @@
   <img src="ScreenShot/Simulator%20Screen%20Shot%20-%20iPhone%2012%20-%202022-06-05%20at%2017.17.49.png" width="190" />
 </p>
 
+https://apps.apple.com/gb/app/edell-coffee/id1553975358
+
 Edell LTD is a company operating in the UK.
 
 We provide service to restaurans & cafe shops
